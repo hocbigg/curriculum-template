@@ -12,7 +12,6 @@
 - [Community](#community)
 - [Curriculum](#curriculum)
 - [Code of conduct](#code-of-conduct)
-- [Team](#team)
 
 # Summary
 
@@ -129,13 +128,11 @@ Here is a sample of options
 ## Congratulations
 
 After completing the requirements of the curriculum above,
-you will have completed the equivalent of a full bachelor's degree in Computer Science.
+you will have completed the equivalent of a full bachelor's degree in Literary Theory.
 Congratulations!
-
-What is next for you? The possibilities are boundless and overlapping:
 
 ![keep learning](images/keep-learning.webp)
 
 # Code of conduct
-[OSSU's code of conduct](https://github.com/ossu/code-of-conduct).
+[Hocbigg's code of conduct](https://github.com/hocbigg/code-of-conduct).
 
